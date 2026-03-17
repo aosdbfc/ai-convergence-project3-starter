@@ -16,7 +16,7 @@ project/
 └── .gitignore
 ```
 
-실제 저장소에서는 아래와 같이 사용하면 된다.
+실제 저장소에서는 아래와 같이 사용하는 것이 목적임
 
 ```bash
 ai-convergence-project3-starter/
