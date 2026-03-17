@@ -1,7 +1,6 @@
 # AI Convergence Project 3 Starter
 
-AI융합실전프로젝트3 과제를 위한 기본 GitHub 프로젝트 템플릿이다.  
-Python 기반 AI/데이터 분석 프로젝트를 깔끔하게 관리할 수 있도록 최소 구조로 구성하였다.
+AI융합실전프로젝트3 과제
 
 ## 프로젝트 구조
 
