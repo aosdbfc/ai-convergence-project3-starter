@@ -102,3 +102,6 @@ refactor: 모델 학습 함수 정리
 DVC는 코드가 아니라 데이터·모델·실험 결과의 버전 관리를 위해 쓰는 도구이고,
 대용량 데이터나 재현성이 중요할 때 유용하지만, 작은 과제에서는 필수는 아니다.
 ```
+## 5~6주차 과제 
+Kaggle의 Titanic 및 Home Credit Default Risk 데이터를 활용하여 Random Forest, XGBoost, LightGBM의 성능을 비교하고, Bagging과 Boosting 계열의 차이 및 Early Stopping 효과를 검증한 Tabular 머신러닝 과제이다.
+Validation 기반 실험 설계와 하이퍼파라미터 튜닝을 통해 단순 train 성능이 아닌 일반화 성능 중심으로 모델을 분석하였다.
